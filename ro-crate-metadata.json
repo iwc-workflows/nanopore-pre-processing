@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-06-25T09:57:05.227636",
+            "datePublished": "2026-10-16T20:50:27.705228",
             "hasPart": [
                 {
                     "@id": "Nanopore-Pre-Processing.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/nanopore-pre-processing",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.23"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
